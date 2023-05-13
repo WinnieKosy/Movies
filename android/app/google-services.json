@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397691805458",
+    "project_id": "imovies-f1214",
+    "storage_bucket": "imovies-f1214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397691805458:android:30757f3a9b5c4159a71dcb",
+        "android_client_info": {
+          "package_name": "com.example.i_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397691805458-u95mgdachnhsgbq5tgs47k6rmhjthd9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKJ3I5ZaBfDQ-aESgE3e_d-a1MRH0Wgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397691805458-u95mgdachnhsgbq5tgs47k6rmhjthd9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
